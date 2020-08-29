@@ -1,0 +1,6 @@
+name: ImageMagick_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - imagemagick

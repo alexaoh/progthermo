@@ -1,0 +1,9 @@
+name: ipywidgets_env
+channels:
+  - defaults
+dependencies:
+  - notebook
+  - ipywidgets
+  - numpy
+  - matplotlib
+  - scipy

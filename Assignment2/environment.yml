@@ -1,0 +1,10 @@
+name: vpython_env
+channels:
+  - defaults
+  - vpython
+dependencies:
+  - vpython
+  - numpy
+  - scipy
+  - notebook
+  - anaconda-navigator
